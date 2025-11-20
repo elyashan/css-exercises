@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.paragraph {
+  background-color: rgb(228, 159, 135);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#number2 {
+  color: rgb(12, 12, 194);
+  font-size: 36px;
+}
+.unique {
+  font-size: 24px;
+}
+#number4 {
+  background-color: rgb(6, 213, 6);
+  font-weight: bold;
+  font-size: 24px;
+}
