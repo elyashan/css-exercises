@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+  background-color: #bd0637;
+  font-family:
+    DejaVu Sans,
+    sans-serif;
+}
+#second-el {
+  color: rgb(4, 4, 189);
+  font-size: 36px;
+}
+#third-el {
+  font-size: 24px;
+}
+#fourth-el {
+  background-color: #87d118;
+  font-size: 24px;
+  font-weight: bold;
+}
